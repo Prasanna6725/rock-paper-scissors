@@ -26,7 +26,7 @@ Challenge the computer and keep track of your score! 🚀
  🛠️ Tech Stack
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ---
 
