@@ -29,8 +29,3 @@ Challenge the computer and keep track of your score! 🚀
 - **JavaScript**
 
 ---
-
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Prasanna6725/Rock_Paper_Scissors.git
