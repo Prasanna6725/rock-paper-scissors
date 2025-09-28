@@ -6,7 +6,7 @@ Challenge the computer and keep track of your score! 🚀
 ---
 
  🔗 Live Demo
-👉 [Play Now](https://Prasanna6725.github.io/Rock_Paper_Scissors/)
+👉 [Play Now](https://prasanna6725.github.io/rock-paper-scissors/)
 
 ---
 
