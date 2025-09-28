@@ -10,11 +10,6 @@ Challenge the computer and keep track of your score! 🚀
 
 ---
 
- 📸 Screenshot
-![Game Screenshot](screenshot.png)
-
----
-
  ✨ Features
 - 🖱️ Choose Rock, Paper, or Scissors  
 - 🤖 Random computer opponent  
